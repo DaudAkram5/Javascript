@@ -1,0 +1,21 @@
+/* 
+- Create variables a and b, and assign them integer values.
+- Use add, subtraction, multiply, divide, and modulus operator for a and b. Store each result in separate variables (sum, difference, product, quotient, reminder).
+
+- Use console.log() to print the results of each operation to the console.
+
+- Add comments in your code to explain what each operation does. */
+let a,b;
+a=5;
+b=5;
+let sum = a+b;
+let min = a-b;
+let mult = a*b;
+let divd = a/b;
+let modulus = a%b;
+
+console.log("sum", sum);
+console.log("min", min);
+console.log("mult", mult);
+console.log("divd", divd);
+console.log("modulus", modulus);
